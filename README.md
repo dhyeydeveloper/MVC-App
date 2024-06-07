@@ -16,4 +16,3 @@ This project is a FastAPI-based web application following the MVC design pattern
 1. Clone the repository:
    ```sh
    git clone https://github.com/dhyeydeveloper/MVC-App.git
-   cd your-repository
