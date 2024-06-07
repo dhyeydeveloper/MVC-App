@@ -1,0 +1,18 @@
+# vs code config
+.vscode
+
+# virtual env
+venv
+
+# temp files
+__pycache__
+
+# env vars
+.env
+
+# temp db
+tmp
+db.sqlite3
+chroma_db
+
+logging.ini
